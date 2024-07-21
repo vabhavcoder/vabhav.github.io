@@ -3,6 +3,10 @@
 ![image](image.jpg)
 # Welcome to My portfolio
 
+
+https://github.com/user-attachments/assets/d8b56a31-3913-4d52-98cc-e98744e8639e
+
+
 ## *INTRODUCTION*
 Greetings, I am Vabhav Bhateja, a passionate B.Tech Computer Science and Engineering student with the passion of learning new programming languages and exploring the tech field.
 
