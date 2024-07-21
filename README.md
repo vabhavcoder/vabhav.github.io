@@ -1,6 +1,6 @@
 # vabhav.github.io
 <span style="color: blue;">***VABHAV BHATEJA***</span>
-![image](image.jpg)
+
 # Welcome to My portfolio
 
 
